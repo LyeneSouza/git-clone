@@ -2,7 +2,7 @@
 title: Jonathan da Cruz
 subtitle: ... 
 email: jonathanadcz@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Amante da tecnologia<br /> Um programador aprendendo e compartilhando conhecimentos sobre tecnologia e programação!
 baseurl: "/jonathandacruz.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url:
+googleplus_url: 
 instagram_url: https://instagram.com/jonathan_dacruz
-linkedin_url: 
+linkedin_url: https://www.linkedin.com/in/jonathan-dacruz/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
