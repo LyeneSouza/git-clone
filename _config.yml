@@ -3,8 +3,8 @@ title: Jonathan da Cruz
 subtitle: ... 
 email: jonathanadcz@gmail.com
 description: Amante da tecnologia<br /> Um programador aprendendo e compartilhando conhecimentos sobre tecnologia e programação!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.jonathandacruz.com.br " # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "jonathandacruz.com.br" # the base hostname & protocol for your site
 author: Jonathan da Cruz
 street_address: 
 city: Chapecó
