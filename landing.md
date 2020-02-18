@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Eu...</h2>
 		</header>
 		<p>Eu sou Jonathan da Cruz! Um amante da tecnologia. Inicio minha trajetória profissional no ano de 2013 como locutor e operador de áudio em uma emissora de rádio. Formado técnico em informática e acadêmico de ciências da computação. Um programador aprendendo e compartilhando conhecimentos sobre tecnologia, programação e técnicas de lógica .</p>
 	</div>
