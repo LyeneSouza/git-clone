@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Cursos </h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<pJunte-se a mais de 40 milhões de alunos pelo mundo aprendendo online na Udemy! Aprender um assunto novo , 100% online e com certificado está bom ? Então vai ficar melhor ainda! Acessando a plataforma por aqui você garante um desconto na hora. Os cursos da Udemy podem ser acessados em diversos dispositivos e plataformas, como desktops, notebooks e nosso aplicativo móvel para Android ou iOS.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.udemy.com/user/jonathan-da-cruz/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Aplicativos</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> Os aplicativos móveis, mais conhecidos como 'apps', são softwares  desenvolvidos para serem instalados em dispositivos eletrônicos móveis... encontre aqui a lista de aplicativos desenvolvidos ao longo de minha trajetória como programador.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,11 +60,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Portfólio</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> "O mundo abre passagem para o homem que sabe para onde está indo."
+				   <p> Ralph Waldo Emerson.</p>	
+			        </p>
+			       <p> Conheça alguns trabalhos que estão facilitando a vida de empreendedores. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Ver mais</a></li>
 				</ul>
 			</div>
 		</div>
