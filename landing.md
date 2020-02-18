@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Cursos </h3>
 				</header>
-				<pJunte-se a mais de 40 milhões de alunos pelo mundo aprendendo online na Udemy! Aprender um assunto novo , 100% online e com certificado está bom ? Então vai ficar melhor ainda! Acessando a plataforma por aqui você garante um desconto na hora. Os cursos da Udemy podem ser acessados em diversos dispositivos e plataformas, como desktops, notebooks e nosso aplicativo móvel para Android ou iOS.</p>
+				<p>Junte-se a mais de 40 milhões de alunos pelo mundo aprendendo online na Udemy! Aprender um assunto novo , 100% online e com certificado está bom ? Então vai ficar melhor ainda! Acessando a plataforma por aqui você garante um desconto na hora. Os cursos da Udemy podem ser acessados em diversos dispositivos e plataformas, como desktops, notebooks e nosso aplicativo móvel para Android ou iOS.</p>
 				<ul class="actions">
 					<li><a href="https://www.udemy.com/user/jonathan-da-cruz/" class="button">Learn more</a></li>
 				</ul>
