@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Eu sou Jonathan da Cruz! Um amante da tecnologia. Inicio minha trajetória profissional no ano de 2013 como locutor e operador de áudio em uma emissora de rádio. Formado técnico em informática e acadêmico de ciências da computação. Um programador aprendendo e compartilhando conhecimentos sobre tecnologia, programação e técnicas de lógica para você utilizar e aplicar os conhecimentos na sua atividade diária.
