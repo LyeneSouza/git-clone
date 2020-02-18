@@ -1,7 +1,7 @@
 ---
 title: Quem sou ?
 layout: landing
-description: 'Eu sou Jonathan da Cruz! Um amante da tecnologia.'
+description: 'Eu sou Jonathan da Cruz! Um amante da tecnologia. Aqui falamos sobre tecnologia, programação e o que mais for necessário!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
