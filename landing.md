@@ -62,8 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Portfólio</h3>
 				</header>
-				<p> "O mundo abre passagem para o homem que sabe para onde está indo."
-				   <p> Ralph Waldo Emerson.</p>	
+				<p> O mundo abre passagem para quem deseja vencer mas também, abre muitos desafios.
 			        </p>
 			       <p> Conheça alguns trabalhos que estão facilitando a vida de empreendedores. </p>
 				<ul class="actions">
