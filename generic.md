@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cursos
-description: Lorem ipsum dolor est
+description: Conheça meus cursos na Udemy
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
