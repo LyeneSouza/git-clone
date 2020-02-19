@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cursos
-description: Conheça meus cursos na Udemy
+title: Portfólio
+description: Conheça alguns jobs que realizo..
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
