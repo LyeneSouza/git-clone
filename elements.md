@@ -2,6 +2,8 @@
 layout: page
 title: Cursos
 nav-menu: true
+image: assets/images/pic11.jpg
+nav-menu: true
 ---
 
 <!-- Main -->
