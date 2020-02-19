@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfólio
+title: Cursos
 nav-menu: true
 ---
 
