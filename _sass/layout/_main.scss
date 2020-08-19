@@ -5,7 +5,11 @@
 ///
 
 /* Main */
-
+	.categorias-produtos {
+		display: flex;
+    	justify-content: space-between;
+    	flex-wrap: wrap;
+	}
 	#main {
 		background-color: _palette(bg-alt);
 
